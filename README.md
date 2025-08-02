@@ -60,7 +60,7 @@ Each concept from the lecture slides is implemented, visualized, and explained i
 
 1. Clone or download this repository.
 2. Open the notebook file:  
-   **`EN3160_L02_Image_Processing.ipynb`**
+   **`Point_Operations`**
 3. Make sure the required libraries are installed:
    ```bash
    pip install opencv-python numpy matplotlib
